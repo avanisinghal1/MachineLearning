@@ -1,0 +1,9 @@
+IEE,Throat_Infection,Headache,Fever,Viral_Infection
+Y,N,Medium,Y,N
+Y,Y,No,N,Y
+Y,N,High,Y,Y
+N,Y,Medium,Y,Y
+N,N,No,N,N
+N,Y,High,Y,Y
+N,Y,High,N,N
+Y,Y,Medium,Y,Y
